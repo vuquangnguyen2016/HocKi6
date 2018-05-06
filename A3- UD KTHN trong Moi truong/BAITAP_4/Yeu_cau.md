@@ -1,7 +1,7 @@
 ## Team 03
-_NGUYEN PHUOC DU SANG - 1523042_\
-_PHAM HUU TUAN - 1523062_\
-_VU QUANG NGUYEN - 1523030_\
+_NGUYEN PHUOC DU SANG - 1523042_
+_PHAM HUU TUAN - 1523062_
+_VU QUANG NGUYEN - 1523030_
 ## YEU CAU
 1. Xu ly dinh
 2. Chuan nang luong va duong chuan hieu suat
