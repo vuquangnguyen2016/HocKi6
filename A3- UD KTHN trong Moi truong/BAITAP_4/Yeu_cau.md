@@ -10,4 +10,10 @@ _VU QUANG NGUYEN - 1523030_
 1. Xu ly dinh - **Vu Quang Nguyen** 
 2. Chuan nang luong va chuan Hieu suat  - _**Vu Quang Nguyen**_ & _**Nguyen Phuoc Du Sang**_
 3. Viet bao cao - _**Vu Quang Nguyen**_ & _**Nguyen Phuoc Du Sang**_
+## Data Nguon
+| Nguon | Hoat do (uCi) | Sai so hoat do (%) | T_1/2 (days) |Ngay Sx |
+---|---|---|---|---|
+Ba-133|1.08	|	3	|3849.208	|15-May-13
+Eu-154|    0.9663	|	3|	3141.0852|	1-Dec-13
+
 
