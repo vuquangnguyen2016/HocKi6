@@ -28,10 +28,4 @@ X|--|--|--|--|--|--|--|--|--|--
 ![nguon ba133](https://user-images.githubusercontent.com/36990033/39678963-db1b0c56-51c0-11e8-98db-d6972f86bdfc.png)
 ![phong](https://user-images.githubusercontent.com/36990033/39678964-db4bae06-51c0-11e8-8431-d6f8e2116313.png)
 ![pho_day_du](https://user-images.githubusercontent.com/36990033/39679353-79365c2e-51c6-11e8-87f4-d16a4c0e2cb5.jpg)
-![1](https://user-images.githubusercontent.com/36990033/39684601-4fcb39d8-51e7-11e8-8ea7-739efac71207.JPG)
-![2](https://user-images.githubusercontent.com/36990033/39684602-4fff79d2-51e7-11e8-964d-ea485cc049ee.JPG)
-![3](https://user-images.githubusercontent.com/36990033/39684603-50336bca-51e7-11e8-8780-d5e5c4005ab0.JPG)
-![4](https://user-images.githubusercontent.com/36990033/39684604-50669086-51e7-11e8-891c-e371555bd627.JPG)
-![5](https://user-images.githubusercontent.com/36990033/39684605-509965ba-51e7-11e8-922f-7b1f5cbd0f4e.JPG)
-![6](https://user-images.githubusercontent.com/36990033/39684606-50ccdd8c-51e7-11e8-9700-2bf2ddfe73fc.JPG)
-![8](https://user-images.githubusercontent.com/36990033/39684600-4f6fd2be-51e7-11e8-9d78-ef1c0bcb70dc.JPG)
+
