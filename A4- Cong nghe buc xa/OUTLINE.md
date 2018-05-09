@@ -22,7 +22,7 @@
 
 * Tín hiệu EPR là dấu hiệu của các sản phẩm phóng xạ trung gian được hình thành khi chiếu xạ trong cấu trúc của mẫu
 * Kết quả cho thấy rằng các gốc tự do được hình thành khi chiếu xạ ở nồng độ rất thấp và/hoặc đã bị phân hủy rất nhanh.
-### -> Quang phổ EPR của vi hạt K1, K2 và K3 được chiếu xạ gamma ở 25 kGy được cho trong hình 2.
+#### -> Quang phổ EPR của vi hạt K1, K2 và K3 được chiếu xạ gamma ở 25 kGy được cho trong hình 2.
 -> Phổ EPR được ghi lại đối với các mẫu chitosan rắn không bị chiếu xạ có cường độ tín hiệu EPR rất thấp và khó có thể phân biệt.
 ### 3. Đường cong phản ứng liều
 * Mẫu phổ EPR không thay đổi đối với các mẫu được chiếu xạ ở mức 10 kGy, 25 kGy và 40 kGy
@@ -51,9 +51,33 @@
 ### 7. Xét nghiệm vô trùng
 * Sau 14 ngày ủ, các ống đục sẽ được xem là không vô trùng và các ống không đục được xem là vô trùng
 * Những kết quả này cho thấy rằng chọn liều 10 kGy, 25 kGy, 40 kGy là liều thích hợp để tiệt trùng.
-* Kết quả xét nghiệm vô trùng được tìm thấy phù hợp với yêu cầu dược lý.
+-> Kết quả xét nghiệm vô trùng được tìm thấy phù hợp với yêu cầu dược lý.
 
 
 ### 8. Xét nghiệm Pyrogen (LAL)
+
+* Kết quả xét nghiệm Pyrogen chỉ ra nội độc tố vi khuẩn (hầu hết các pyrogens phổ biến) cho thấy không có bao phủ cho tất cả các nguyên liệu thô.
+* Gel kiểm tra LAL hình thành đã không quan sát được cho tất cả các phân tán. 
+-> Nó đã được quan sát thấy rằng tất cả các chất mang ở tất cả các liều chiếu xạ đều là không có pyrogen
 ### 9. Xác định SAL
+* Liều 25 kGy  với điều kiện có hiệu lực cho việc khử trùng tối thiểu với liều cung cấp 10-6 SAL
+* SAL cho L1, L2, N1, S1 và không thể tính K2. 
+* SAL thu được như 12,6 kGy cho K1 và 24,7 kGy cho các vi hạt K3. *
+* Liposomes, niosomes, sphingosomes và vi hạt chitosan có thể được khử trùng với tất cả các liều chiếu xạ mà không có bất kỳ thiệt hại do chiếu xạ gamma.
+
 ### 10. Phần kết luận
+
+#### 1. Quang phổ học EPR: 
+
+- kỹ thuật giám sát cho quá trình xạ tiệt trùng của các mẫu chitosan.
+- Các chitosan mMW, chitosan glutamate và vi hạt chitosan clorua ở dạng rắn, có tín hiệu EPR tương đối thấp với tỷ lệ phân rã cao
+-> EPR chỉ ra rằng các chất mang thuốc có thể được tiệt trùng an toàn bằng chiếu xạ gamma.
+
+#### 2. chiếu xạ gamma -  kỹ thuật tiệt trùng thích hợp cho sự phân tán liposome, niosome và sphingosome
+ - các vi hạt chitosan sau khi chiếu xạ được xem xét, các vi hạt chitosan mã K2 được tìm thấy như là chất mang thuốc có khả năng chống oxy hóa cao nhất so với các chất mang thuốc khác.
+ 
+ #### 3. Liposome, niosomes, sphingosomes và vi hạt chitosan được chiếu xạ với liều 25 kGy
+ - Liều chiếu xạ không gây ra bất kỳ thiệt hại nào cho các chất mang. 
+ - Kết quả là, sự tăng trưởng vi sinh vật không được quan sát ngay cả ở liều chiếu xạ 2 kGy. 
+ - Tất cả các chất mang thuốc ở tất cả các liều chiếu xạ là vô trùng và không có pyrogen.
+
