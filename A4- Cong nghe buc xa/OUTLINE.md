@@ -22,7 +22,7 @@
 
 * Tín hiệu EPR là dấu hiệu của các sản phẩm phóng xạ trung gian được hình thành khi chiếu xạ trong cấu trúc của mẫu
 * Kết quả cho thấy rằng các gốc tự do được hình thành khi chiếu xạ ở nồng độ rất thấp và/hoặc đã bị phân hủy rất nhanh.
--> ### Quang phổ EPR của vi hạt K1, K2 và K3 được chiếu xạ gamma ở 25 kGy được cho trong hình 2.
+### -> Quang phổ EPR của vi hạt K1, K2 và K3 được chiếu xạ gamma ở 25 kGy được cho trong hình 2.
 -> Phổ EPR được ghi lại đối với các mẫu chitosan rắn không bị chiếu xạ có cường độ tín hiệu EPR rất thấp và khó có thể phân biệt.
 ### 3. Đường cong phản ứng liều
 * Mẫu phổ EPR không thay đổi đối với các mẫu được chiếu xạ ở mức 10 kGy, 25 kGy và 40 kGy
