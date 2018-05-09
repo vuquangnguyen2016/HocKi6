@@ -15,3 +15,18 @@
   *   bước sóng 1600 cm-1 (–CONH–, amide I), 
   *   bước sóng 1550 cm-1 (–NH, amide II), 
   *   bước sóng < 1107 cm-1 (C-O kéo dài rung).
+-> Kết quả FT-IR cho thấy chiếu xạ không có tác động đáng kể do sự hình thành các nhóm hóa học mới cho vi hạt chitosan
+
+### 2. Quang phổ EPR
+* Mẫu phổ EPR không thay đổi đối với các mẫu được chiếu xạ ở mức 10 kGy, 25 kGy và 40 kGy
+-> loại gốc tự do tạo ra khi chiếu xạ là độc lập với liều hấp thụ.
+-> Kết luận rằng các mẫu chitosan được chiếu xạ không bị ảnh hưởng nhiều bởi chiếu xạ gamma, vì lượng phóng xạ trung gian được tạo ra khi chiếu xạ tương đối thấp.
+
+### 3. Đường cong phản ứng liều
+### 4. Nghiên cứu SWAX X-RD
+### 5. Hình thái bề mặt của vi hạt chitosan
+### 6. Sự phồng của vi hạt chitosan
+### 7. Xét nghiệm vô trùng
+### 8. Xét nghiệm Pyrogen (LAL)
+### 9. Xác định SAL
+### 10. Phần kết luận
