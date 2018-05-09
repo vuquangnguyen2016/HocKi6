@@ -10,8 +10,8 @@
 
 -> Để mô tả các thay đổi hóa học xảy của mẫu polymer được chiếu xạ -> FT-IR.
 * Đỉnh đặc trưng của vi hạt Chitosan:
- *   bước sóng 3000–3900 cm-1 (OH, NH2), 
- *   bước sóng  2800 cm-1 (–CH kéo dài),? 
- *   bước sóng 1600 cm-1 (–CONH–, amide I), 
- *   bước sóng 1550 cm-1 (–NH, amide II), 
- *   bước sóng < 1107 cm-1 (C-O kéo dài rung).
+  *   bước sóng 3000–3900 cm-1 (OH, NH2), 
+  *   bước sóng  2800 cm-1 (–CH kéo dài),? 
+  *   bước sóng 1600 cm-1 (–CONH–, amide I), 
+  *   bước sóng 1550 cm-1 (–NH, amide II), 
+  *   bước sóng < 1107 cm-1 (C-O kéo dài rung).
