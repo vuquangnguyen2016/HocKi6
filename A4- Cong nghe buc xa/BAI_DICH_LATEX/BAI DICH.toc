@@ -1,0 +1,19 @@
+\contentsline {section}{\numberline {1}\IeC {\DJ }\IeC {\d \abreve }t v\IeC {\'\acircumflex }n \IeC {\dj }\IeC {\`\ecircumflex }}{2}{section.1}
+\contentsline {section}{\numberline {2}Ph\IeC {\`\acircumflex }n gi\IeC {\'\ohorn }i thi\IeC {\d \ecircumflex }u}{2}{section.2}
+\contentsline {section}{\numberline {3}Ph\IeC {\`\acircumflex }n chu\IeC {\h \acircumflex }n b\IeC {\d i} th\IeC {\'\i } nghi\IeC {\d \ecircumflex }m}{3}{section.3}
+\contentsline {subsection}{\numberline {3.1}Chu\IeC {\h \acircumflex }n b\IeC {\d i} v\IeC {\d \acircumflex }t li\IeC {\d \ecircumflex }u}{3}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Chu\IeC {\h \acircumflex }n b\IeC {\d i} b\IeC {\h a}ng t\IeC {\'\acircumflex }m cao su}{3}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}Chi\IeC {\'\ecircumflex }u x\IeC {\d a} gamma}{4}{subsection.3.3}
+\contentsline {subsection}{\numberline {3.4}Ti\IeC {\'\ecircumflex }n h\IeC {\`a}nh \IeC {\dj }o \IeC {\dj }\IeC {\d \ocircumflex } b\IeC {\`\ecircumflex }n c\IeC {\ohorn } h\IeC {\d o}c}{4}{subsection.3.4}
+\contentsline {subsection}{\numberline {3.5}\IeC {\DJ }o \IeC {\dj }\IeC {\d \ocircumflex } c\IeC {\'\uhorn }ng}{4}{subsection.3.5}
+\contentsline {subsection}{\numberline {3.6}Ph\IeC {\^a}n t\IeC {\'\i }ch \IeC {\dj }\IeC {\d \ocircumflex } b\IeC {\`\ecircumflex }n nhi\IeC {\d \ecircumflex }t}{4}{subsection.3.6}
+\contentsline {subsection}{\numberline {3.7}\IeC {\DJ }\IeC {\d \abreve }c t\IeC {\'\i }nh h\IeC {\`\i }nh th\IeC {\'a}i}{4}{subsection.3.7}
+\contentsline {subsection}{\numberline {3.8}Ph\IeC {\^a}n t\IeC {\'\i }ch ph\IeC {\h \ocircumflex } h\IeC {\`\ocircumflex }ng ngo\IeC {\d a}i}{4}{subsection.3.8}
+\contentsline {subsection}{\numberline {3.9}Ki\IeC {\h \ecircumflex }m tra \IeC {\dj }\IeC {\d \ocircumflex } tr\IeC {\uhorn }\IeC {\ohorn }ng ph\IeC {\`\i }nh}{4}{subsection.3.9}
+\contentsline {section}{\numberline {4}K\IeC {\'\ecircumflex }t qu\IeC {\h a} th\IeC {\'\i } nghi\IeC {\d \ecircumflex }m v\IeC {\`a} \IeC {\dj }\IeC {\'a}nh gi\IeC {\'a}}{5}{section.4}
+\contentsline {subsection}{\numberline {4.1}C\IeC {\'a}c thu\IeC {\d \ocircumflex }c t\IeC {\'\i }nh c\IeC {\ohorn } h\IeC {\d o}c}{5}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}\IeC {\DJ }\IeC {\d \ocircumflex } \IeC {\h \ocircumflex }n \IeC {\dj }\IeC {\d i}nh nhi\IeC {\d \ecircumflex }t c\IeC {\h u}a Polymer tinh khi\IeC {\'\ecircumflex }t v\IeC {\`a} cao su h\IeC {\~\ocircumflex }n h\IeC {\d \ohorn }p qua x\IeC {\h \uhorn } l\IeC {\'y}}{8}{subsection.4.2}
+\contentsline {subsection}{\numberline {4.3}Ph\IeC {\^a}n t\IeC {\'\i }ch FTIR}{10}{subsection.4.3}
+\contentsline {subsection}{\numberline {4.4}\IeC {\DJ }\IeC {\d \ocircumflex } ch\IeC {\d i}u d\IeC {\`\acircumflex }u c\IeC {\h u}a polymer tinh khi\IeC {\'\ecircumflex }t v\IeC {\`a} h\IeC {\~\ocircumflex }n h\IeC {\d \ohorn }p qua x\IeC {\h \uhorn } l\IeC {\'y}}{12}{subsection.4.4}
+\contentsline {subsection}{\numberline {4.5}Ki\IeC {\h \ecircumflex }m \IeC {\dj }\IeC {\d i}nh b\IeC {\`\abreve }ng ph\IeC {\uhorn }\IeC {\ohorn }ng ph\IeC {\'a}p k\IeC {\'\i }nh hi\IeC {\h \ecircumflex }n vi \IeC {\dj }i\IeC {\d \ecircumflex }n t\IeC {\h \uhorn } qu\IeC {\'e}t (SEM - scanning electron microscope)}{14}{subsection.4.5}
+\contentsline {section}{\numberline {5}Ph\IeC {\`\acircumflex }n k\IeC {\'\ecircumflex }t lu\IeC {\d \acircumflex }n}{16}{section.5}
